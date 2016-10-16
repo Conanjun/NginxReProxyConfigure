@@ -1,0 +1,1 @@
+echo "nginx start success"
